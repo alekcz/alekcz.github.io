@@ -32,7 +32,7 @@ plugins:
 
 plainwhite:
   name: Alexander Oloo
-  tagline: Developer. Designer
+  tagline: Human. Engineer. Designer.
   date_format: "%b %-d, %Y"
   sitemap: true
   analytics_id: 'UA-112030125-1'
