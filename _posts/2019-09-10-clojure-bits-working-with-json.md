@@ -45,6 +45,13 @@ In the REPL=> (require '[cheshire.core :as json])
 ;; notice the map doesn't have keywords
 ```
 
+### JSON to clojure map with keywords
+```clojure
+(json/decode valid-json-object true)
+;; {:message "build passing"}
+;; Yay, much nicer!
+```
+
 Cheshire can do a lot more than this. But this is all you need 99% of the time.
 
 _May your build always pass._
