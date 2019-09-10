@@ -2,7 +2,7 @@
 layout: post
 title:  "Clojure Bits: Working with JSON"
 date:   2019-09-10 06:00:00 +0200
-categories: clojure-bits
+categories: blog
 tags: [clojure]
 ---
 Clojure Bits: bite-sized and human friendly bits of Clojure. Today, let’s chat about JSON, the backbone of the internet. I’ve written a ton of web applications in Clojure and so far my favourite library for working with JSON is Cheshire. It’s simple to use and fast. Really fast. Here’s how you can get started with it.

@@ -35,6 +35,7 @@ plainwhite:
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   sitemap: true
+  analytics_id: 'UA-112030125-1'
 
   social_links:
     twitter: alekcz
