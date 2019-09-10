@@ -1,0 +1,63 @@
+# Welcome to Jekyll!
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Alexander Oloo
+author: alekcz
+email: alekcz@gmail.com
+bio:  Engineer. Designer. Jack of all trades. Great at Product, Clojure, coaching and debugging.
+description: > # this means to ignore newlines until "show_exerpts:"
+  I solve business problems using design and code. I build APIs, craft user experiences, and mentor designers & devs. My toolbox consists of Coaching, Clojure, Javascript, Vue, Angular, CSS, Product Design, UX, and UI.  
+current: >  
+  I'm currently a Design Director at the Absa Design Office where I work with a bunch of awesome humans. My primary focus is the design, analysis, and optimization of apps on the web.
+previous: >    
+  I had the privilege of lecturing at the University of Pretoria for 4 years, writing code at SAP for 3 years, and building NeedTyres.
+outro: >   
+  Oh yes...and I code a lot. Wanna chat? Hit me up on twitter.
+show_excerpts: true # set to true to show excerpts on the homepage
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: alekcz
+github_username:  alekcz
+
+# Build settings
+#theme: plainwhite
+remote_theme: alekcz/plainwhite-jekyll
+plugins:
+  - jekyll-feed
+
+plainwhite:
+  name: Alexander Oloo
+  tagline: Developer. Designer
+  date_format: "%b %-d, %Y"
+  sitemap: true
+
+  social_links:
+    twitter: alekcz
+    github:  alekcz
+    linkedIn: in/alekcz 
+    dribbble: jekyll
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
