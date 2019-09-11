@@ -22,7 +22,7 @@ After wading through the source code I found the timing part of the library: `ov
 
 And so I sang to keep my dynos awake. 
 
-Here's a REPL. As I said, I was still new to Clojure so I relied heavily on `use` instead of `require`. 
+Here's a REPL. 
 
 ```clojure
 ; in your REPL with [overtone "0.10.3"] as a depdency
