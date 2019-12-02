@@ -6,7 +6,7 @@ categories: [blog]
 tags: [clojure, tools, advent of parens, day 2]
 ---
 
-Greetings friend. Today we're going to talk tools. There are many and they're all slightly different. Which tools are the best? Well, you see, like everything else in programming, it depends. It depends on many things. And therein lies the difficulty. Since our aim is to make it easier for people to enter the Clojure community we're going to evaluate our decisions on beginner friendliness. 
+Greetings friend. Today we're going to talk Clojure tools. And no, you don't have to use emacs. There are many tools and they're all slightly different. Which tools are the best? Well, you see, like everything else in programming, it depends. It depends on many things. And therein lies the difficulty. Since our aim is to make it easier for people to enter the Clojure community we're going to evaluate our decisions on beginner friendliness. 
 
 A quick disclaimer: if your primary dev environment is Windows you're in for a world of hurt. I'd strongly recommend getting your hands on a distribution of Unix. It'll make it easier to get help online. 
 
