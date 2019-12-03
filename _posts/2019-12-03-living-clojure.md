@@ -3,7 +3,7 @@ layout: post
 title:  "Living Clojure"
 date:   2019-12-03 09:00:00 +0200
 categories: [blog]
-tags: [clojure, gigasquid, advent of parens, day 3]
+tags: [clojure, podcast, advent of parens, day 3]
 ---
 
 There was a time where I was so fed up with lisps, Clojure, stack traces, and EOF errors. I was ready to go back to Node.js. 
