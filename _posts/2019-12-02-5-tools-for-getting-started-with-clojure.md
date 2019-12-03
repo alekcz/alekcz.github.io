@@ -26,7 +26,7 @@ Let's be honest, without internet there is very little you can do in tech these 
 
 The most of the time the libraries are small. The JavaSDK will be the primary data hog in the early days. 
 
-If you're internet situation is dodgy, let chat tomorrow about some possible work arounds.
+If you're internet situation is dodgy, let chat ~tomorrow~ next week about some possible work arounds.
 
 ### 2. A terminal
 The default one will do just fine. **#winning**
