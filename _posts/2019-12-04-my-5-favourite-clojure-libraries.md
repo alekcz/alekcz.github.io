@@ -31,7 +31,7 @@ I'm currently using `[com.taoensso/nippy "2.14.0"]` successfully in production.
 My favourite thing about nippy (besides it being rediculously fast) is that after processing large datasets I can save the object straight from memory directly to disk. This allows my application to pick up instantaneously from where it left off after a reboot.  
 
 ### 4. at-at
-at-at is a _"high-performance serialization library for Clojure"_.  
+at-at is an _"ahead-of-time function scheduler"_.  
 I'm currently using `[overtone/at-at "1.2.0"]` successfully in production. 
 My favourite [trick](/blog/2019/09/11/overtone-music-to-keep-my-dynos-awake.html) with at-at is to use it to schedule a ping every 5 minutes to keep my dynos awake. Obviously I use http-kit to do the ping. 
 
