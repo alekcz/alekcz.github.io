@@ -10,7 +10,7 @@ Oh, you think JSON is your ally? I do a lot work with JSON. So much so that my f
 
 <iframe src="https://giphy.com/embed/I8SQMuIELiw0w" width="300" height="214" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-Associative destructuring is syntactic sugar for extracting keys from an object in a way that makes code more readable. More readable code is more maintainable code. It's made my life much easier.
+Associative destructuring is the hero we need but don't deserve. It's syntactic sugar for extracting keys from an object in a way that makes code more readable. More readable code is more maintainable code. It's made my life much easier.
 
 Given the following map, that was created by parsing a JSON object using [cheshire](https://github.com/dakrone/cheshire):
 ```clojure
