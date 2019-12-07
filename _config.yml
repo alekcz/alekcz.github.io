@@ -20,9 +20,10 @@ outro: >
   Oh yes...and I code a lot. Wanna chat? Hit me up on twitter.
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alexanderoloo.com" 
 twitter_username: alekcz
 github_username:  alekcz
+sitemap: true
 
 # Build settings
 #theme: plainwhite
