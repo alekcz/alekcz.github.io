@@ -4,6 +4,7 @@ title:  "5 Tools for Getting Started with Clojure"
 date:   2019-12-02 09:00:00 +0200
 categories: [blog]
 tags: [clojure, tools, advent of parens, day 2]
+group: dev
 ---
 
 Greetings friend. Today we're going to talk Clojure tools. And no, you don't have to use emacs. There are many tools and they're all slightly different. Which tools are the best? Well, you see, like everything else in programming, it depends. It depends on many things. And therein lies the difficulty. Since our aim is to make it easier for people to enter the Clojure community we're going to evaluate our decisions on beginner friendliness. 

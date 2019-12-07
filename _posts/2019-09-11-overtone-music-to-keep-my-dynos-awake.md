@@ -4,6 +4,7 @@ title:  "Overtone: Music to keep my dynos awake"
 date:   2019-09-11 21:00:00 +0200
 categories: blog
 tags: [clojure, overtone]
+group: dev
 ---
 
 In my earlier years, I worked with startups as well as the "idea guys" aka "Code this for me and I'll give you equity in my idea". So I quickly learnt to contain costs for each of the multiple ventures I was involved in. 

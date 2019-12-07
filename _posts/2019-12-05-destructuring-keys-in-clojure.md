@@ -4,6 +4,7 @@ title:  "Destructuring keys in clojure"
 date:   2019-12-05 09:00:00 +0200
 categories: blog
 tags: [clojure, destructuring, day 5]
+group: dev
 ---
 
 Oh, you think JSON is your ally? I do a lot work with JSON. So much so that my favourite library is a JSON parsing library ([cheshire](https://github.com/dakrone/cheshire)). The most tedious thing about working wiht JSON is pulling keys out of JSON objects over and over again.  

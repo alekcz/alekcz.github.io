@@ -4,6 +4,7 @@ title:  "Advent of Parens"
 date:   2019-12-01 09:00:00 +0200
 categories: [blog]
 tags: [clojure,advent of parens, day 1]
+group: dev
 ---
 
 A few days ago [@plexus](https://twitter.com/plexus) (civilian name: Arne Brasseur) shared a pretty cool idea on twitter: Write a blog post every day from the 1st of December to the 24th of December on somethings to do with Clojure. And so the ["Advent of Parens"](https://lambdaisland.com/blog/2019-11-25-advent-of-parens) was born!

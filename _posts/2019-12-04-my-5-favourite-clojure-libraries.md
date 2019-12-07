@@ -4,6 +4,7 @@ title:  "My 5 favourite clojure libraries"
 date:   2019-12-04 09:00:00 +0200
 categories: blog
 tags: [clojure, libraries, day 4]
+group: dev
 ---
 
 In my travels I have collected a set of clojure libraries that I can rely on to help me solve problems effectively. These are my top 5. 
