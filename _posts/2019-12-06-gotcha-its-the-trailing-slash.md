@@ -3,7 +3,7 @@ layout: post
 title:  "Gotcha! It's the trailing slash"
 date:   2019-12-06 09:00:00 +0200
 categories: blog
-tags: [clojure, destructuring, day 6]
+tags: [clojure, luminus, day 6]
 ---
 
 _You've discovered the [Luminus framework](http://www.luminusweb.net/). You've reached unparalleled levels of productivity. You can build a web app at the drop of a hat. You can't believe no-one told you about this before. You're life is perfect except for one small thing._ 
