@@ -246,6 +246,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-feed (~> 0.11.0)
   plainwhite
   wdm (~> 0.1.1)
 
