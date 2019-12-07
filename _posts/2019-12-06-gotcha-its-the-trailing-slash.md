@@ -42,3 +42,5 @@ _May your build always pass._
 _Alex_
 
 This post is part of the ["Advent of Parens"](/blog/2019/12/01/advent-of-parens.html).
+
+_Today's post is late courtesy of our wonderful electricity provider Eskom. Loadshedding is the best!_
