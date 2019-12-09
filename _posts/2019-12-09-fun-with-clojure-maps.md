@@ -3,7 +3,7 @@ layout: post
 title:  "Fun with Clojure maps"
 date:   2019-12-09 07:00:00 +0200
 categories: blog
-tags: [clojure, maps, thread-first, day 8]
+tags: [clojure, maps, day 9]
 group: dev
 ---
 
