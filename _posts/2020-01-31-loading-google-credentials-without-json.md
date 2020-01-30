@@ -27,7 +27,7 @@ So we basically need to get this `.json` file into all our CI/CD pipelines and o
 
 And there you go. Nothing but net.
 
-<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><iframe src="https://giphy.com/embed/UYlu2EDUdiVl6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<iframe src="https://giphy.com/embed/UYlu2EDUdiVl6" width="480" height="423" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/space-UYlu2EDUdiVl6">via GIPHY</a></p>
 
 
 
