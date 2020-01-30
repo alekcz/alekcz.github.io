@@ -23,7 +23,7 @@ export GOOGLE_APPLICATION_CREDENTIALS="/home/user/Downloads/[FILE_NAME].json"
 
 So we basically need to get this `.json` file into all our CI/CD pipelines and our application servers. Obviously we can't store the credentials in `git` so we need to encrypt and upload the file. Admin! 
 
-[alekcz/google-credentials](https://github.com/alekcz/google-credentials) solves exactly this problem. You clojure app can now load credentials from an environment variable using `alekcz/google-credentials`. And so you need not keep that super secret `.json file`. Copy its contents into the environment and delete the file!
+[alekcz/google-credentials](https://github.com/alekcz/google-credentials) solves exactly this problem. Your clojure app can now load credentials from an environment variable using `alekcz/google-credentials`.You need not keep that super secret `.json` file anymore. Copy its contents into the environment and delete the file!
 
 And there you go. Nothing but net.
 
