@@ -7,7 +7,7 @@ tags: [clojure,gcloud,ci,cd,useful]
 group: dev
 ---
 
-I primarily use heroku to run my applications and Travis for CI/CD. I'm currently trying out CI/CD. So what do all those have in common? Well, for starters they have generous free tiers, but more importantly they're not in the Google Cloud. Google cloud has some really nifty capabilities and so I end up using them pretty often. That's where my problem started. 
+I primarily use heroku to run my applications and Travis for CI/CD. I'm also currently giving Github Actions a try. So what do all those have in common? Well, for starters they have generous free tiers, but more importantly they're not in the Google Cloud. Google cloud has some really nifty capabilities and so I end up using them pretty often. That's where my problem started. 
 
 When you want to authenticate your application from outside the Google Cloud you need to read in a `.json` file that contains the service account information.
 
