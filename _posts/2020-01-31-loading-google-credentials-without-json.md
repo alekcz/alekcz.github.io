@@ -12,7 +12,7 @@ I primarily use heroku to run my applications and Travis for CI/CD. I'm also cur
 When you want to authenticate your application from outside the Google Cloud you need to read in a `.json` file that contains the service account information.
 
 ```java
-File credentialsPath = new File("/home/user/Downloads/[FILE_NAME].json");  // TODO: update to your key path.
+File credentialsPath = new File("/home/user/Downloads/[FILE_NAME].json");  
 ```
 
 or
