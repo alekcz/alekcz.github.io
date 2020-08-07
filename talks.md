@@ -4,13 +4,20 @@ permalink: /talks/
 group: talks
 title: Sharing ideas with the world
 media:
+    -   title: "Negotiating with and Persuading Stakeholders"
+        event: "DVT Design Forum"
+        eventlink: "https://www.dvt.co.za/"
+        date:   2020-08-07 00:00:00 +0200
+        image: /images/talks/dvt2020.png
+        url: 
+        location: "Virtual"
     -   title:  "Negotiating with and Persuading Stakeholders"
         event: "She Can Do"
         eventlink: "https://www.meetup.com/She-Can-Do/"
         date:   2020-03-26 00:00:00 +0200
         image: /images/talks/shecando2020.jpg
         url: 
-        location: "Remote"
+        location: "Virtual"
     -   title:  "From Lazy Lisper to Confident Clojurist"
         event: "ClojureD"
         eventlink: "https://clojured.de/"
