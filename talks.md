@@ -10,14 +10,14 @@ media:
         date:   2020-08-07 00:00:00 +0200
         image: /images/talks/dvt2020.png
         url: 
-        location: "Virtual"
+        location: "Online"
     -   title:  "Negotiating with and Persuading Stakeholders"
         event: "She Can Do"
         eventlink: "https://www.meetup.com/She-Can-Do/"
         date:   2020-03-26 00:00:00 +0200
         image: /images/talks/shecando2020.jpg
         url: 
-        location: "Virtual"
+        location: "Online"
     -   title:  "From Lazy Lisper to Confident Clojurist"
         event: "ClojureD"
         eventlink: "https://clojured.de/"
