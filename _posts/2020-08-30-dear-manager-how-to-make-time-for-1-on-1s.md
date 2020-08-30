@@ -7,7 +7,7 @@ tags: [design,leadership,manager]
 group: design
 ---
 
-I've been at this manager thing for a while and it's hard. Hard but rewarding. I've built some high performing teams and without a doubt a key factor in my success so far has been the 1-on-1s. When I keep to them diligently the team goes from strength to strength, and so do I. When I deprioritise them...yip you guessed it, bad things happen. 
+I've been at this manager thing for a while and it's hard. Hard but rewarding. I've built some high performing teams and without a doubt a key factor in my success has been 1-on-1s. When I keep to them diligently the team goes from strength to strength, and so do I. When I deprioritise them...yip you guessed it, bad things happen. 
 
 Am I awesome at 1-on-1s? Nope. Getting better at 1-on-1s has been a recurring theme in my personal development for quite some time now. I've learnt a ton on this journey. This guide is output of my thoughts, experiences, books I've read, successes, failures, feedback and everythig in between. Putting this guide together has really helped me. I refer back to it from time to time. Dear Manager, I hope it helps you. 
 
