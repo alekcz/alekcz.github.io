@@ -89,7 +89,7 @@ The quality of our 1-on-1s improved quite a bit after its introduction.
 
 ![1-on-1 example plan](/images/blog/1on1-planning.png)
 
-### Step 6: Build you 1-on-1 roster
+### Step 6: Build your 1-on-1 roster
 You're now ready to build your roster. Starting with the template below, customise your roster layout, copy and tone so that it is appropriate for the people you manage.   
 
 You can grab the template (Dropbox Paper) here: [1-on-1 Roster Template on Dropbox Paper](https://paper.dropbox.com/doc/1on1-roster-for-Team-X--A6A273gDMqZd7JUd6E~0SF~bAg-BhRnIHiwmwBR11XpH5PVM)
