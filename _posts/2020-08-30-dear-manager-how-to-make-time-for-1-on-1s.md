@@ -9,7 +9,7 @@ group: design
 
 I've been at this manager thing for a while and it's hard. Hard but rewarding. I've built some high performing teams and without a doubt a key factor in my success has been 1-on-1s. When I keep to them diligently the team goes from strength to strength, and so do I. When I deprioritise them...yip you guessed it, bad things happen. 
 
-Am I awesome at 1-on-1s? Nope. Getting better at 1-on-1s has been a recurring theme in my personal development for quite some time now. I've learnt a ton on this journey. This guide is output of my thoughts, experiences, books I've read, successes, failures, feedback and everythig in between. Putting this guide together has really helped me. I refer back to it from time to time. Dear Manager, I hope it helps you. 
+Am I awesome at 1-on-1s? Nope. Getting better at 1-on-1s has been a recurring theme in my personal development for quite some time now. I've learnt a ton on this journey. This guide is output of my thoughts, experiences, books I've read, successes, failures, feedback and everything in between. Putting this guide together has really helped me. I refer back to it from time to time. Dear Manager, I hope it helps you. 
 
 # How to make time for your 1-on-1s
 
@@ -75,7 +75,7 @@ For each 1-on-1 slot set up two reminders. One well before and the other 10 minu
 A 1-on-1 roster is made up of 3 components: Available times, Conversation Guide, Channels of communication. 
 
 *Available Times*  
-This section is built using the slots identified in Steps 1 and 2. This is where your direct reports can fill in their prefered slot. It is important that your direct reports can select their own time so that they can be held accountable for arriving on time. While you have chosen the times that work for you, you may have to adjust them based on the schedules of your direct reports.
+This section is built using the slots identified in Steps 1 and 2. This is where your direct reports can fill in their preferred slot. It is important that your direct reports can select their own time so that they can be held accountable for arriving on time. While you have chosen the times that work for you, you may have to adjust them based on the schedules of your direct reports.
 
 *Conversation Guide*  
 1-on-1s can be unbelievably awkward at first. The awkwardness can discourage you and your direct report. I found that until we got used to it, the first 10 minutes were quite dry, full of operational updates or awkward. A conversation guide can be quite useful in getting the two of you through the 10-minute barrier. It allows you both to go into the conversation knowing what to expect. It is particularly important for your remote direct reports, as the distance can amplify awkwardness.
@@ -90,7 +90,7 @@ The quality of our 1-on-1s improved quite a bit after its introduction.
 ![1-on-1 example plan](/images/blog/1on1-planning.png)
 
 ### Step 6: Build you 1-on-1 roster
-You're now ready to builf your roster. Starting wth the template below customise your roster layout, copy and tone so that it is appropriate for the people you manage.   
+You're now ready to build your roster. Starting with the template below, customise your roster layout, copy and tone so that it is appropriate for the people you manage.   
 
 You can grab the template (Dropbox Paper) here: [1-on-1 Roster Template on Dropbox Paper](https://paper.dropbox.com/doc/1on1-roster-for-Team-X--A6A273gDMqZd7JUd6E~0SF~bAg-BhRnIHiwmwBR11XpH5PVM)
 
@@ -132,4 +132,4 @@ _May your build always pass._
 
 _Alex_
 
-P.S. Thank you to [Katerina Limpitsouni](https://twitter.com/NinaLimpi) for the amazing illustations she's made available on [undraw.co](https://undraw.co/).
+P.S. Thank you to [Katerina Limpitsouni](https://twitter.com/NinaLimpi) for the amazing illustrations she's made available on [undraw.co](https://undraw.co/).
