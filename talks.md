@@ -4,6 +4,13 @@ permalink: /talks/
 group: talks
 title: Sharing ideas with the world
 media:
+    -   title: "Everybody lies: Hypothesis driven testing"
+        event: "Pixel Up!"
+        eventlink: "https://pixelup.co.za"
+        date:   2020-09-15 00:00:00 +0200
+        image: /images/talks/pixelup2020.png
+        url: 
+        location: "Online"
     -   title: "Negotiating with and Persuading Stakeholders"
         event: "DVT Design Forum"
         eventlink: "https://www.dvt.co.za/"
@@ -21,7 +28,7 @@ media:
     -   title:  "From Lazy Lisper to Confident Clojurist"
         event: "ClojureD"
         eventlink: "https://clojured.de/"
-        date:   2019-11-23 00:00:00 +0200
+        date:   2020-02-29 00:00:00 +0200
         image: /images/talks/clojured2020.png
         url: https://www.youtube.com/watch?v=j57UbYFbI-U
         location: "Berlin, Germany"
