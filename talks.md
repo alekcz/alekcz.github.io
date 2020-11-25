@@ -55,4 +55,4 @@ media:
         location: "São Paulo, Brazil"  
 ---
 
-I've had the privilege of giving a few talks across the globe. Traveling around the world giving talks is inspiring, eye-opening and humbling. It is particulary humbling to realise that there are people from all over who were interested in what I had to say and enjoyed my talk. It makes me glad to be able to give back to the community by sharing what I've learned. 
+I've had the privilege of giving a few talks across the globe. Traveling around the world giving talks is inspiring, eye-opening and humbling. It is particulary humbling to realise that there are people from all over the world who are interested in what I have to say and enjoy my talks. It makes me glad to be able to give back to the community by sharing what I've learned. 
